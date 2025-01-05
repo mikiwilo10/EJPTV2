@@ -53,4 +53,4 @@ Descripcion: Diagrama del Examen 2024  _ eLearnSecurity Junior Penetration Teste
 ## Resources 📑📘
 
 
-<figure><img src="assets/diagramaExamen.png" alt="" width="563"><figcaption><p>Examen 2024 eJPT v2</p></figcaption></figure>
+<figure><img src="assets/diagramaExamen.png" alt="" width="750"><figcaption><p>Examen 2024 eJPT v2</p></figcaption></figure>
